@@ -1,0 +1,4 @@
+
+option('install_headers', type: 'boolean', value: true, yield: true)
+option('install_lib', type:'boolean', value:true, yield: true)
+
